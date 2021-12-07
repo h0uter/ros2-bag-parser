@@ -1,0 +1,19 @@
+rosbag2_bagfile_information:
+  version: 4
+  storage_identifier: sqlite3
+  relative_file_paths:
+    - door4.db3
+  duration:
+    nanoseconds: 5359387224
+  starting_time:
+    nanoseconds_since_epoch: 1637670570696642361
+  message_count: 11
+  topics_with_message_count:
+    - topic_metadata:
+        name: /point_cloud
+        type: sensor_msgs/msg/PointCloud2
+        serialization_format: cdr
+        offered_qos_profiles: ""
+      message_count: 11
+  compression_format: ""
+  compression_mode: ""
